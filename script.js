@@ -53,7 +53,7 @@ function generateTicket() {
 // Fungsi Baru untuk mengirim detail tiket ke WhatsApp
 function sendToWhatsApp() {
     // GANTI NOMOR DI BAWAH INI DENGAN NOMOR WHATSAPP KAMU
-    const myPhoneNumber = "+6281932475240"; 
+    const myPhoneNumber = "081932475240"; 
 
     // Menyusun teks pesan WhatsApp dengan format yang rapi
     const message = `Halo! Aku sudah buat tiket kencan kita nih ✨%0A%0A` +
